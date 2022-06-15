@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984204ce-8a16-40d2-bcc1-e0d27790f1dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Longest_Palindromic_Substring/LongestPalindromeSubstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zigzag_Conversion/ZigzagConversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum_Subarray/MaximumSubarray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plus_One/PlusOne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
